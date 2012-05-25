@@ -1,2 +1,1 @@
-responsive-gs
-=============
+Fluid grid CSS framework for fast, intuitive development of responsive websites. Available in 12, 16 and 24 columns with media queries for all standard devices, clearfix, and optional reset.
